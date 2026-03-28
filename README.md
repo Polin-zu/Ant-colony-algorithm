@@ -44,7 +44,7 @@ Ant Colony L_max: 29
 Improvement: 21.62%  
 
 <p align="center">
-  <img src="images/converegence.png" width="500" alt="График сходимости">
+  <img src="images/convergence.png" width="500" alt="График сходимости">
   <br><em>Сходимость муравьиного алгоритма</em>
 </p>  
 
