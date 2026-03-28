@@ -39,6 +39,6 @@
 
 На случайных графах из 15 задач муравьиный алгоритм часто находит расписание на 10–50% лучше, чем жадный EDD.  
 Пример работы (при фиксированном seed):
-Greedy L_max: 37
-Ant Colony L_max: 29
-Improvement: 21.62%
+  Greedy L_max: 37
+  Ant Colony L_max: 29
+  Improvement: 21.62%
